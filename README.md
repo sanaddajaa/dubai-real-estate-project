@@ -246,7 +246,11 @@ Potential improvements include:
 - Separate models for different property segments.
 - Real-time or regularly updated rental data.
 
+```
+
 ## 👨‍💻 Author
+
+```text 
 
 **Sanad dajaa**
 
