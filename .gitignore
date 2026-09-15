@@ -3,8 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-data/*.csv
-
 models/dubai_rent_model.pkl
 
 .DS_Store
