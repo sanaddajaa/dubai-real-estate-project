@@ -5,6 +5,6 @@ __pycache__/
 
 data/*.csv
 
-models/*.pkl
+models/dubai_rent_model.pkl
 
 .DS_Store

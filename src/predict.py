@@ -8,7 +8,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parents[1]
 
 # Path to the saved model
-MODEL_PATH = BASE_DIR / "models" / "dubai_rent_model.pkl"
+MODEL_PATH = BASE_DIR / "models" / "dubai_rent_model_small.pkl"
 
 # Load the trained model
 model = joblib.load(MODEL_PATH)
