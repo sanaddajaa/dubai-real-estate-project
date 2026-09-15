@@ -230,7 +230,11 @@ Windows:
 
 The application will open in your browser.
 
+```
+
 ## 🔮 Future Improvements
+
+```text 
 
 Potential improvements include:
 
