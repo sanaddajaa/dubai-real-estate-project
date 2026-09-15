@@ -201,22 +201,35 @@ dubai-real-estate-project/
 └── src/
     └── predict.py
 
-⚙️ Run Locally
-Clone the repository:
-git clone https://github.com/sanaddajaa/dubai-real-estate-project.git
-cd dubai-real-estate-project
-Create and activate a virtual environment:
-python -m venv venv
+## ⚙️ Run Locally
+
+### 1. Clone the repository
+
+    git clone https://github.com/sanaddajaa/dubai-real-estate-project.git
+    cd dubai-real-estate-project
+
+### 2. Create and activate a virtual environment
+
+    python -m venv venv
+
 Windows:
-venv\Scripts\activate
-Install dependencies:
-pip install -r requirements.txt
-Run the Streamlit application:
-streamlit run app.py
 
+    venv\Scripts\activate
 
-🔮 Future Improvements
+### 3. Install dependencies
+
+    pip install -r requirements.txt
+
+### 4. Run the Streamlit application
+
+    streamlit run app.py
+
+The application will open in your browser.
+
+## 🔮 Future Improvements
+
 Potential improvements include:
+
 - Geospatial analysis using latitude and longitude.
 - Interactive Dubai location maps.
 - Property price per square foot analysis.
@@ -225,7 +238,14 @@ Potential improvements include:
 - Separate models for different property segments.
 - Real-time or regularly updated rental data.
 
-👨‍💻 Author
-Sanad dajaa
+## 👨‍💻 Author
+
+**Sanad dajaa**
+
 AI & Data Science Student
-Interested in Machine Learning, Data Science, and AI applications in real-world business problems.    
+
+Interested in Machine Learning, Data Science, and AI applications in real-world business problems.
+
+---
+
+⭐ If you found this project useful, feel free to explore the repository and try the live application.
