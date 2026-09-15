@@ -201,9 +201,11 @@ dubai-real-estate-project/
 └── src/
     └── predict.py
    
-```text 
+```
 
 ## ⚙️ Run Locally
+
+```text 
 
 ### 1. Clone the repository
 
