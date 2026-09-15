@@ -42,15 +42,18 @@ that can estimate the annual rental price of a Dubai property.
 
 ## 📊 Dataset
 
-The project uses the **Dubai Real Estate Goldmine** rental listings
-dataset from Kaggle.
+This project uses the **Dubai Real Estate Goldmine, UAE Rental Market Data**
+dataset by Azhar Saleem.
 
-The original dataset contains rental listings from the UAE.
-For this project, the analysis was focused specifically on Dubai.
+The dataset contains rental property listings across the UAE and was
+used for exploratory data analysis and machine learning.
 
-The raw dataset is not included in this repository.
+Source:
+https://www.kaggle.com/datasets/azharsaleem/real-estate-goldmine-dubai-uae-rental-market
 
----
+License: Apache 2.0
+
+The dataset is used for educational and portfolio purposes.
 
 ## 🧹 Data Preparation
 
